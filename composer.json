@@ -9,7 +9,7 @@
         "bluelyte/tpb-client": "dev-master",
         "bluelyte/imdb-client": "dev-master",
         "bluelyte/transmission-remote": "dev-master",
-        "monolog/monolog": "1.4.0"
+        "monolog/monolog": "~1.4"
     },
     "bin": [
         "composer/bin/johnny",
